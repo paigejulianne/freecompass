@@ -1,0 +1,18 @@
+# Dependencies
+node_modules/
+
+# Expo
+.expo/
+dist/
+web-build/
+*.orig.*
+
+# Native
+ios/
+android/
+
+# Env / misc
+.env*.local
+npm-debug.*
+yarn-error.*
+.DS_Store
